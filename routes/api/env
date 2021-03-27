@@ -1,0 +1,2 @@
+PORT=3000
+MONGODB_URL= 'mongodb+srv:b-290:<MongoBruk-52>@cluster0.vqp1y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority//<username>:<password>@cluster0<some-gibberish>.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
